@@ -1,0 +1,31 @@
+prikaz najbolje borba 
+
+plan rada za završni rad
+
+java dio
+    neuronska mreža - simuliranje toka generacija. borbe, survival of the fittest - fitnes funkcije, vrste razmnožavanja, rekombinacija, stope smrtnosti
+    server - grpc?komunikacija protokolom preko localhosta sa C#,  (de)serijalizacija stanja
+    
+unity/C#
+    vizualizacija generacija
+    upravljanje parametrima
+    
+    upravljiva jedinka, slobodan izbor protivnika
+    
+
+
+
+
+
+
+IDEJE:
+
+    koristit prethodno napravljen svijet i skripte
+    
+    parametri za jedinku
+        ˇhrabrost:  ˇželja za borbom,  ^bliskost ostalih
+        brzina,  snaga,  ukupna energija,  sreća?(utječe na pozitivnost/učestalost mutacije ukupne energije)
+        
+        
+    server:
+        serijalizacija protobuf, grpc localhost komunikacija, 
