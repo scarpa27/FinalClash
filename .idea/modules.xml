@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/QGenAlgo/QGenAlgo.iml" filepath="$PROJECT_DIR$/QGenAlgo/QGenAlgo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/ZavrsniRad.iml" filepath="$PROJECT_DIR$/.idea/ZavrsniRad.iml" />
-    </modules>
-  </component>
-</project>
