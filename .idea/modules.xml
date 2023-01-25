@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QNeuralNet/QNeuralNet.iml" filepath="$PROJECT_DIR$/QNeuralNet/QNeuralNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QGenAlgo/QGenAlgo.iml" filepath="$PROJECT_DIR$/QGenAlgo/QGenAlgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ZavrsniRad.iml" filepath="$PROJECT_DIR$/.idea/ZavrsniRad.iml" />
     </modules>
   </component>

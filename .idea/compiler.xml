@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="QNeuralNet" />
+        <module name="QGenAlgo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="QNeuralNet" target="17" />
+      <module name="QGenAlgo" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
